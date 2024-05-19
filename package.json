@@ -1,5 +1,6 @@
 {
   "name": "cancoes-tfm",
+  "homepage": "https://paulodallago.github.io/cancoesTfm/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
