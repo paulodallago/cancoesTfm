@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.71517e22.css",
-    "main.js": "/static/js/main.35cb94f7.js",
-    "static/js/453.3d4f9650.chunk.js": "/static/js/453.3d4f9650.chunk.js",
-    "static/media/lato-v17-latin-ext_latin-300.woff": "/static/media/lato-v17-latin-ext_latin-300.d627195ef5d923aca703.woff",
-    "static/media/lato-v17-latin-ext_latin-regular.woff": "/static/media/lato-v17-latin-ext_latin-regular.10ba787081e3803ee682.woff",
-    "static/media/lato-v17-latin-ext_latin-700.woff": "/static/media/lato-v17-latin-ext_latin-700.0421cae97d663331048e.woff",
-    "static/media/lato-v17-latin-ext_latin-regular.woff2": "/static/media/lato-v17-latin-ext_latin-regular.01a9f39134a05dc8eff9.woff2",
-    "static/media/lato-v17-latin-ext_latin-300.woff2": "/static/media/lato-v17-latin-ext_latin-300.df0b586402822891d90b.woff2",
-    "static/media/lato-v17-latin-ext_latin-700.woff2": "/static/media/lato-v17-latin-ext_latin-700.506aaf7f49928f0a3798.woff2",
-    "index.html": "/index.html",
-    "main.71517e22.css.map": "/static/css/main.71517e22.css.map",
-    "main.35cb94f7.js.map": "/static/js/main.35cb94f7.js.map",
-    "453.3d4f9650.chunk.js.map": "/static/js/453.3d4f9650.chunk.js.map"
+    "main.css": "/cancoesTfm/static/css/main.96ba3e51.css",
+    "main.js": "/cancoesTfm/static/js/main.b99a6a12.js",
+    "static/js/453.3d4f9650.chunk.js": "/cancoesTfm/static/js/453.3d4f9650.chunk.js",
+    "static/media/lato-v17-latin-ext_latin-300.woff": "/cancoesTfm/static/media/lato-v17-latin-ext_latin-300.d627195ef5d923aca703.woff",
+    "static/media/lato-v17-latin-ext_latin-regular.woff": "/cancoesTfm/static/media/lato-v17-latin-ext_latin-regular.10ba787081e3803ee682.woff",
+    "static/media/lato-v17-latin-ext_latin-700.woff": "/cancoesTfm/static/media/lato-v17-latin-ext_latin-700.0421cae97d663331048e.woff",
+    "static/media/lato-v17-latin-ext_latin-regular.woff2": "/cancoesTfm/static/media/lato-v17-latin-ext_latin-regular.01a9f39134a05dc8eff9.woff2",
+    "static/media/lato-v17-latin-ext_latin-300.woff2": "/cancoesTfm/static/media/lato-v17-latin-ext_latin-300.df0b586402822891d90b.woff2",
+    "static/media/lato-v17-latin-ext_latin-700.woff2": "/cancoesTfm/static/media/lato-v17-latin-ext_latin-700.506aaf7f49928f0a3798.woff2",
+    "index.html": "/cancoesTfm/index.html",
+    "main.96ba3e51.css.map": "/cancoesTfm/static/css/main.96ba3e51.css.map",
+    "main.b99a6a12.js.map": "/cancoesTfm/static/js/main.b99a6a12.js.map",
+    "453.3d4f9650.chunk.js.map": "/cancoesTfm/static/js/453.3d4f9650.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71517e22.css",
-    "static/js/main.35cb94f7.js"
+    "static/css/main.96ba3e51.css",
+    "static/js/main.b99a6a12.js"
   ]
 }
