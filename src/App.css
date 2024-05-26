@@ -1,14 +1,44 @@
+body,
+html,
+#root,
 .App {
-  background-color: rgb(35, 35, 35);
+  height: 100%;
+  margin: 0;
+  background-color: #232323;
   color: white;
-  min-height: 100vh;
+  overflow: auto;
 }
 
-.dialogAddCancao > .p-dialog-content {
+.App,
+.body {
+  flex: 1 1 auto;
   display: flex;
   flex-direction: column;
 }
 
+.boxLetra {
+  text-align: center;
+}
+
 .boxContribuidor {
   font-size: small;
+}
+
+/* Override PrimeReact */
+
+.p-tabview-nav > li {
+  margin-right: 1px;
+}
+
+.p-tabview,
+.p-tabview-panels,
+.dialogAddCancao > .p-dialog-content {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.p-tabview-panel {
+  width: 80vw;
+  margin: 0 auto;
 }
